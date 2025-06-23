@@ -2,16 +2,6 @@
 
 A system designed to detect driver drowsiness in real-time using computer vision and machine learning techniques.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 This project aims to improve road safety by alerting drivers when signs of drowsiness are detected. The system monitors facial features such as eye closure and head position to identify potential drowsiness.
