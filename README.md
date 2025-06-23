@@ -1,3 +1,31 @@
-# DriveAlert
-Drowsiness detection system that alerts drivers whenever they fall asleep behind the wheel.
-Detailed project description [here](https://www.jaegwanpark.ca/posts/driver-drowsiness-proj/driver-drowsiness/). 
+# Driver Drowsiness Detection System
+
+A system designed to detect driver drowsiness in real-time using computer vision and machine learning techniques.
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+This project aims to improve road safety by alerting drivers when signs of drowsiness are detected. The system monitors facial features such as eye closure and head position to identify potential drowsiness.
+
+## Features
+
+- **Real-time drowsiness detection**
+- **Alert system for drowsy drivers**
+- **High accuracy with minimal false positives**
+- **Easy integration with existing dashcam systems**
+
+## Technologies Used
+
+- **Python**
+- **OpenCV**
+- **Machine Learning models**
+- **Webcam/Video input**
